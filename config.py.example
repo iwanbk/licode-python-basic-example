@@ -1,0 +1,4 @@
+superserviceID = '530d85b1dbf55ebcebbc1a8d'
+superserviceKey = '5518'
+nuveHost = "192.168.1.12"
+nuvePort = 3000
